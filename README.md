@@ -25,6 +25,7 @@
 ## Usage
    ![gif displaying get paths](https://github.com/Cofeight/orm-ecommerce/blob/main/assets/get-paths.gif)
    ![server/seeding gifs](https://github.com/Cofeight/orm-ecommerce/blob/main/assets/sqlseed-server.gif)
+   ![put-post-delete gif](https://github.com/Cofeight/orm-ecommerce/blob/main/assets/post-put-delete.gif)
 
 ## License
     MIT
