@@ -47,7 +47,7 @@ router.put('/:id', (req, res) => {
   Tag.update(req.body, {
     where: {
       id: req.params.id,
-    }
+    },
   })
   .then((tag) => {
     res.status(200).json(tag);
